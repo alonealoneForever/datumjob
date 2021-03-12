@@ -1,0 +1,5 @@
+Hasee@DESKTOP-IL88V2D MINGW64 ~
+$ git config --global user.name "emyiaisAguy"
+
+Hasee@DESKTOP-IL88V2D MINGW64 ~
+$ git config --global user.email "stcyzjk515100@163.com"
